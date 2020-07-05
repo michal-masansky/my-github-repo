@@ -67,7 +67,6 @@ def time_duration(start, end):
 def main():
     lst2 = random_num(4)
     num_guess = 0
-    print(lst2)
     lst1 = []
     time_start = time()
 
